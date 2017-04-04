@@ -1,0 +1,30 @@
+.pageheader {
+  background-color: #f0eceb;
+  font-family: 'Lora-Bold', serif;
+  border:solid;
+  padding: 10px;
+  padding-top:20px;
+}
+
+.header {
+  background-color: #f3d2cd;
+  font-family: 'Lora-BoldItalic', serif;
+  padding: 10px;
+  border: solid;
+}
+
+.textblock {
+  background-color: #e3b1a1;
+  font-family: 'Lora-Regular', sans-serif;
+  padding: 10px;
+  line-height: 1.4em;
+}
+
+.quote{
+  font-family: 'Lora-Italic', cursive;
+}
+
+.textblock a:hover {
+  color: rgb(197, 202, 150);
+  font-size:22px
+}
